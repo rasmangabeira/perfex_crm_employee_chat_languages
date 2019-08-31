@@ -30,7 +30,7 @@ $lang['chat_user_active_now'] = 'Ativos no Chat';
 $lang['chat_new_file_uploaded'] = 'Novo arquivo foi carregado';
 $lang['chat_file_upload'] = 'Carregar arquivo';
 $lang['chat_new_link_shared'] = 'te enviou um link';
-$lang['chat_example_type'] = 'Digite por ex. #fff';
+$lang['chat_color_example_type'] = 'Por ex. linear-gradient(#051937, #424323);';
 $lang['chat_browser_full_chat'] = 'Visão Completa';
 $lang['chat_role_administrator'] = 'Administrador';
 $lang['chat_role_employee'] = 'Funcionário';
@@ -50,6 +50,11 @@ $lang['chat_you_have_a_new_message'] = 'Você possui uma nova mensagem';
 $lang['chat_no_more_messages_to_show'] = 'Não há mais mensagens';
 $lang['chat_no_more_messages_in_database'] = 'Não há mais mensagens encontradas na base de dados';
 $lang['chat_show_desktop_messages_notifications'] = 'Ativar notificações ao vivo no Desktop para mensagens de bate-papo';
+$lang['chat_solid_color_text'] = 'Solid Color';
+$lang['chat_gradient_color_text'] = 'Gradient Color';
+$lang['chat_reset_color_text'] = 'Reset Colors';
+$lang['chat_toggle_circle_text'] = 'Toggle Circle';
+$lang['chat_invalid_color_alert'] = 'Invalid color, please use eg. linear-gradient(#051937, #004d7a);';
 
 
 # Chat Groups
